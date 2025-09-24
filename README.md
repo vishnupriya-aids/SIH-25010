@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24/09/2025
+## Register Number:25010444
+## Name:VISHNUPRIYA E
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,86 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
+<h3>GramSeva Agriculture</h3>
+<ul><li>DetailedWe propose a Smart Crop Advisory System, delivered via a mobile application and chatbot, that provides real-time, location-specific, and personalized agricultural insights using AI and data analytics.
+
+Core Features:
+
+Crop Selection Guidance
+Based on soil type, weather patterns, and crop rotation history.
+
+Soil Health & Fertilizer Recommendations
+Input based on soil testing reports or farmer-submitted data.
+
+Weather-based Alerts
+Predictive advisories for irrigation, pesticide spraying, and harvesting.
+
+Pest & Disease Detection
+AI-powered image recognition system to detect crop diseases via smartphone camera.
+
+Market Price Monitoring
+Real-time tracking of crop prices in nearby mandis.
+
+Multilingual & Voice-based Interface
+Support for major Indian languages and voice navigation for ease of use.
+
+Farmer Feedback System
+For continuous learning and model improvement. explanation of the proposed solution
+
+</li>
 <li>How it addresses the problem</li>
 <li>Innovation and uniqueness of the solution</li></ul>
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
+  Technologies to be Used:
+
+Frontend: React Native / Flutter (for cross-platform mobile development)
+
+Backend: Node.js / Django
+
+Database: Firebase / PostgreSQL
+
+AI/ML Models: TensorFlow / PyTorch for image classification and predictive analytics
+
+Weather API: Integration with IMD or OpenWeatherMap
+
+Language Support: Google Cloud Text-to-Speech, Bhashini API for regional language support
+
+Methodology and Process:
+
+Data Collection
+
+Soil type, weather, crop history, and market data through APIs and user input
+
+AI Advisory Engine
+
+Generates recommendations based on real-time inputs and historical data
+
+User Interface
+
+Intuitive design, multilingual support, and optional voice interaction
+
+Feedback Loop
+
+User feedback and interaction data used to improve recommendation models
 </li>
 <li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
+<ul><li>Analysis of the feasibility of the idea
+Gramseva Agriculture is technically and economically feasible using mobile, AI, and cloud technologies. It supports regional languages and voice features, making it easy for low-literate farmers to use. Development is cost-effective with open-source tools and can be supported by government or NGO funding. The solution is scalable across regions and adaptable to new technologies. Risks like digital illiteracy and poor connectivity are addressed through offline access, local training, and trusted community partnerships.
+</li>
 <li>Potential challenges and risks</li>
 <li>Strategies for overcoming these challenges</li></ul>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
+<ul><li>Potential impact on the target audience
+Gramseva Agriculture empowers small and marginal farmers with real-time, personalized crop and farming advice. It helps increase crop yield, reduce input costs, and improve income. By promoting efficient use of fertilizers and pesticides, it supports sustainable and eco-friendly farming. The app bridges the digital gap with voice and language support, improving access to scientific farming methods. Overall, it enhances rural livelihoods, strengthens food security, and contributes to environmental conservation.
+</li>
 <li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<ul><li>
+  https://www.india.gov.in/topics/agriculture
+</li></ul>
